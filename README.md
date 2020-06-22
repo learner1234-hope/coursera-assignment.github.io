@@ -1,5 +1,9 @@
 # coursera-assignment.github.io
 
+ASSIGNMENT LINK -
+
+ [Module 3 Assignment](http://bit.ly/1mKZzJ5)
+
 
 SOLUTION LINK -
 
