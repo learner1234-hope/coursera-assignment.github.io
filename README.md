@@ -4,7 +4,7 @@ ASSIGNMENT LINK -
 
  [Module 3 Assignment](http://bit.ly/1mKZzJ5)
  
- [Module 4 Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/tree/master/assignments/assignment4)
+ [Module 4 Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)
 
 
 SOLUTION LINK -
