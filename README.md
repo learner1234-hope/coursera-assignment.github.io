@@ -11,4 +11,4 @@ SOLUTION LINK -
 
 [MODULE 3 SOLUTION](https://learner1234-hope.github.io/coursera-assignment.github.io/module-3-solution/)
 
-[MODULE 4 SOLUTION](http://learner1234-hope.github.io/coursera-assignment.github.io/module_4_solution/index.html)
+[MODULE 4 SOLUTION](http://learner1234-hope.github.io/coursera-assignment.github.io/module_4_solution/)
